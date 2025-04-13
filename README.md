@@ -39,7 +39,6 @@
 
 <p align="center">
   <img src="https://github-readme-stats.vercel.app/api?username=alisamavat&show_icons=true&count_private=true&theme=radical" alt="GitHub Stats" width="48%"/>
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=alisamavat&layout=compact&theme=radical" alt="Top Languages" width="48%"/>
 </p>
 
 ## 🌐 Let's Connect
