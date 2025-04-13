@@ -1,5 +1,5 @@
 <h1 align="center">👋 Hi, I'm Ali Samavat</h1>
-<h3 align="center">Frontend Developer | React | JavaScript | Next </h3>
+<h3 align="center">Frontend Developer | React | JavaScript | Next</h3>
 
 <img width="100%" src="https://github.com/SamirPaulb/SamirPaulb/blob/main/assets/rainbow-superthin.webp" alt="divider" />
 
@@ -34,6 +34,9 @@
 ### Tools
 ![Git](https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white)
 ![GitHub](https://img.shields.io/badge/GitHub-100000?style=for-the-badge&logo=github&logoColor=white)
+
+### Build Tool
+![Vite](https://img.shields.io/badge/Vite-B73BFE?style=for-the-badge&logo=vite&logoColor=FFD62E)
 
 ## 🌐 Let's Connect
 
